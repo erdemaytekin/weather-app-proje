@@ -15,7 +15,6 @@
     else {
         return "";
     }
-
 }
 
 function DecryptStringAES(text) {
